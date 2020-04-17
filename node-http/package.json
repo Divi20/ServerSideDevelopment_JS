@@ -2,10 +2,10 @@
   "name": "node-http",
   "version": "1.0.0",
   "description": "Node HTTP Module Example",
-  "main": "indexv1.js",
+  "main": "indexv2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node indexv1"
+    "start": "node indexv2"
   },
   "author": "Divyangi Singh",
   "license": "ISC"
