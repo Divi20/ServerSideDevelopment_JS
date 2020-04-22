@@ -26,7 +26,7 @@ dishRouter.route('/')
 })
 
 //dishid
-dishRouter.route('/dishes/:dishId')
+dishRouter.route('/:dishId')
 .all((req,res,next)=>{
     res.statusCode = 200;
     res.setHeader('Content-Type','text/plain');
