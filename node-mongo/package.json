@@ -1,16 +1,17 @@
 {
-  "name": "node-mongo",
+  "name": "mongo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "indexv2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
+    "start": "node indexv2"
   },
   "author": "Divyangi Singh",
   "license": "ISC",
   "dependencies": {
     "assert": "^2.0.0",
     "mongodb": "^3.5.6"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
